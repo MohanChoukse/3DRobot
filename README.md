@@ -8,7 +8,7 @@ A visually engaging and animated 3D Robot web interface built using **HTML**, **
 
 ## 📸 Preview
 
-![Screenshot](./gradient.png)
+![Screenshot](https://github.com/MohanChoukse/3DRobot/blob/main/Screenshot%202025-05-24%20225008.png)
 
 ---
 
